@@ -67,3 +67,4 @@ En el directorio `postman/` se incluyen los archivos listos para importar en **P
    * **Carpeta 3 (`NEG-01` / `INT-01`):** Recorre de punta a punta el flujo central (reserva, completitud con acreditación de +100 puntos, reserva con canje de descuento del 10% y cancelación con reintegro automático).
    * **Carpeta 4 (`NEG-02`):** Comprueba los rechazos de reglas de negocio (`400`, `409` y `422`).
 4. Abrir `http://localhost:8025` (**Mailpit**) para visualizar todos los correos electrónicos generados durante el flujo (`RN-06`).
+# TP_BDA_Turnero_Peluqueria
